@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Zvent</string>
+    <string name="start">Iniciar</string>
+    <string name="about">Acerca de</string>
+    <string name="home">Inicio</string>
+    <string name="confirm">Confirmar</string>
+    <string name="dont">Limpiar</string>
+    <string name="restart">Reiniciar</string>
+    <string name="viewGuests">Ver invitados</string>
+    <string name="invited">Invitados: </string>
+    <string name="registered">Registrados: </string>
+    <string name="register">Registro</string>
+    <string name="info">App de organización. \n \n \nContacto: joseovando18071@zvent.com</string>
+    <string name="guests_registered">Invitado (%1$d/%2$d)</string>
+    <string name="share">Compartir</string>
+    <string name="successful_share"> %1$d invitados, %2$d fueron registrados.</string>
+    <string name="name">Zvent</string>
+    <string name="zvent_email">joseovando18071@zvent.com</string>
+    <string name="roles">Roles</string>
+    <string name="save">Guardar</string>
+    <string name="guests">Invitados</string>
+    <string name="description">Descripción</string>
+    <string name="role">Rol</string>
+    <string name="noGuests">¡Presionar + para añadirlos.</string>
+    <string name="noGuestsRegistered">¡Presionar + para agregarlos</string>
+    <string name="noRoles">¡Presionar + para agregarlos</string>
+    <string name="guestName">Nombre</string>
+    <string name="guestPhone">Teléfono</string>
+    <string name="guestEmail">Correo electrónico</string>
+    <string name="addGuestList">Presionar los atributos para agregar la información</string>
+    <string name="addSeekBar">Deslizar la barra para añadir un orden</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
